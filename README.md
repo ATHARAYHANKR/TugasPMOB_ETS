@@ -16,5 +16,5 @@
 |------|-----|
 | Andhira Dewanti Faizah | 24082010003
 | Atha Rayhan Karimah Ramadhan | 24082010006
-| Krisna Pratama Wijaya | 2408201016
-| Khansa Amani Rahmadini | 2408201019
+| Krisna Pratama Wijaya | 24082010016
+| Khansa Amani Rahmadini | 24082010019
